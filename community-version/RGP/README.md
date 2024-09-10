@@ -19,9 +19,9 @@ The Radiant logo consists of the following elements:
 - **Symbol + Wordmark (Logo)**:  
   Available in two layouts:  
   - **Wide**:  
-    ![Wide Logo](path/to/wide_logo.png)  
+    ![Wide Logo](./LogoType_white.png)  
   - **Stacked**:  
-    ![Stacked Logo](path/to/stacked_logo.png)
+    ![Stacked Logo](./Stacked_white.png)
 
 ## Color Usage
 
