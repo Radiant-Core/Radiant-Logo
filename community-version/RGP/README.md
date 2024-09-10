@@ -41,6 +41,8 @@ There are two primary color modes for the logo:
    - RGB: (R4, G4, B5)  
    - White: (R255, G255, B255)
 
+   ![Color](./readme_images/color_usage.png)
+
 **Examples**:  
 - Primary on white background:  
   ![Primary White Background](./readme_images/primary_white_background.png)  
