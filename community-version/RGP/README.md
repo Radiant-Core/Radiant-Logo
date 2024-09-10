@@ -1,5 +1,8 @@
 # Radiant (RXD) Logo Usage Guidelines
 
+Version: 1.0 (Beta)  
+Date: 2024
+
 ## Overview
 
 This document provides guidelines for the correct usage of the Radiant (RXD) logo, including the symbol, wordmark, and combined versions. Adherence to these guidelines ensures consistency across all platforms and maintains the integrity of the Radiant brand.
@@ -9,7 +12,7 @@ This document provides guidelines for the correct usage of the Radiant (RXD) log
 The Radiant logo consists of the following elements:
 
 - **Symbol**:  
-  ![Symbol](./R_White_Logo.png)
+  ![Symbol](path/to/symbol.png)
 
 - **Wordmark**:  
   Typeface: AZONIX  
@@ -19,9 +22,9 @@ The Radiant logo consists of the following elements:
 - **Symbol + Wordmark (Logo)**:  
   Available in two layouts:  
   - **Wide**:  
-    ![Wide Logo](./LogoType_white.png)  
+    ![Wide Logo](path/to/wide_logo.png)  
   - **Stacked**:  
-    ![Stacked Logo](./Stacked_white.png)
+    ![Stacked Logo](path/to/stacked_logo.png)
 
 ## Color Usage
 
