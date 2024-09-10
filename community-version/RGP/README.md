@@ -9,7 +9,7 @@ This document provides guidelines for the correct usage of the Radiant (RXD) log
 The Radiant logo consists of the following elements:
 
 - **Symbol**:  
-  ![Symbol](path/to/symbol.png)
+  ![Symbol](./community-version/RGP/R_White_Logo.png)
 
 - **Wordmark**:  
   Typeface: AZONIX  
