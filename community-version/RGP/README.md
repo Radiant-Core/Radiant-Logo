@@ -12,19 +12,19 @@ This document provides guidelines for the correct usage of the Radiant (RXD) log
 The Radiant logo consists of the following elements:
 
 - **Symbol**:  
-  ![Symbol](path/to/symbol.png)
+  ![Symbol](./readme_images/symbol.png)
 
 - **Wordmark**:  
   Typeface: AZONIX  
   Tracking spacing: 100  
-  ![Wordmark](path/to/wordmark.png)
+  ![Wordmark](./readme_images/wordmark.png)
 
 - **Symbol + Wordmark (Logo)**:  
   Available in two layouts:  
   - **Wide**:  
-    ![Wide Logo](path/to/wide_logo.png)  
+    ![Wide Logo](./readme_images/wide_logo.png)  
   - **Stacked**:  
-    ![Stacked Logo](path/to/stacked_logo.png)
+    ![Stacked Logo](./readme_images/stacked_logo.png)
 
 ## Color Usage
 
@@ -43,9 +43,9 @@ There are two primary color modes for the logo:
 
 **Examples**:  
 - Primary on white background:  
-  ![Primary White Background](path/to/primary_white_bg.png)  
+  ![Primary White Background](./readme_images/primary_white_background.png)  
 - Secondary on dark background:  
-  ![Secondary Dark Background](path/to/secondary_dark_bg.png)
+  ![Secondary Dark Background](./readme_images/primary_dark_background.png)
 
 ## Logo Usage Rules
 
@@ -53,19 +53,20 @@ There are two primary color modes for the logo:
 - **Do not distort or stretch** the logo in any way.  
 - **Do not contour** the logo.  
 - A glowing effect is allowed in special graphic applications but does **not replace** the primary or secondary logos.
+![Rules](./readme_images/logo_rules.png)
 
 ## Icon Variants
 
 The Radiant logo is available in the following icon variants:
 
 - **Black**  
-  ![Black Icon](path/to/black_icon.png)
+  ![Black Icon](./readme_images/black_icon.png)
 
 - **White**  
-  ![White Icon](path/to/white_icon.png)
+  ![White Icon](./readme_images/white_icon.png)
 
 - **Gradient**  
-  ![Gradient Icon](path/to/gradient_icon.png)
+  ![Gradient Icon](./readme_images/gradient_icon.png)
 
 ## Special Use Cases
 
